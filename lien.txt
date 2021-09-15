@@ -2,9 +2,9 @@
 [2] [En ligne].Available:https://fr.wikipedia.org/wiki/SEMMA
 [3] [En ligne].Available:https://www.datascience-pm.com/semma/
 [4] [En ligne].Available:https://www.google.com/search?q=semma+DEFINITION&rlz=1C1GCEA_enTN930TN930&sxsrf=AOaemvK4KG8pXUnALAbV-3NP4P0253V6Mg:1631707338143&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjulJHC94DzAhUH26QKHS59A_EQ_AUoAXoECAIQAw&biw=1366&bih=625&dpr=1#imgrc=ZY0-47nuUj-xvM&imgdii=SZLocy5a5K1qFM
-[] [En ligne].Available:
-[] [En ligne].Available:
-[] [En ligne].Available:
+[5] [En ligne].Available:https://www.ibm.com/docs/fr/spss-modeler/SaaS?topic=dm-crisp-help-overview
+[6] [En ligne].Available:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.solutions-numeriques.com%2Fexpertise-la-methode-crisp-une-solution-pour-reussir-vos-projets-big-data-alianor-sibai-mc2i-groupe%2F&psig=AOvVaw311Y7tqBhhYB20QLFFQ-KB&ust=1631801056815000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCJiS6uiSgfMCFQAAAAAdAAAAABAP
+[7] [En ligne].Available:Azevedo et al. “KDD semma and CRISP-DM: A parallel overview”. In: Jan. 2008,pp. 182–185
 [] [En ligne].Available:
 [] [En ligne].Available:
 [] [En ligne].Available:
