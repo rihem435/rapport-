@@ -5,8 +5,8 @@
 [5] [En ligne].Available:https://www.ibm.com/docs/fr/spss-modeler/SaaS?topic=dm-crisp-help-overview
 [6] [En ligne].Available:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.solutions-numeriques.com%2Fexpertise-la-methode-crisp-une-solution-pour-reussir-vos-projets-big-data-alianor-sibai-mc2i-groupe%2F&psig=AOvVaw311Y7tqBhhYB20QLFFQ-KB&ust=1631801056815000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCJiS6uiSgfMCFQAAAAAdAAAAABAP
 [7] [En ligne].Available:Azevedo et al. “KDD semma and CRISP-DM: A parallel overview”. In: Jan. 2008,pp. 182–185
-[] [En ligne].Available:
-[] [En ligne].Available:
+[8] [En ligne].Available:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FAn-example-of-word-vectors-embedding-in-two-dimensional-space_fig2_349915332&psig=AOvVaw2bGwkKluTj5kRZmdhC5s5V&ust=1632179703950000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCIiqsq2VjPMCFQAAAAAdAAAAABAD
+[9] [En ligne].Available:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kdnuggets.com%2F2018%2F06%2Fbasic-keras-neural-network-sequential-model.html&psig=AOvVaw1IEoQtNGJfjpC6IlMswR7p&ust=1632229840477000&source=images&cd=vfe&ved=0CA0Q3YkBahcKEwiI46eX0I3zAhUAAAAAHQAAAAAQIw
 [] [En ligne].Available:
 [] [En ligne].Available:
 [] [En ligne].Available:
